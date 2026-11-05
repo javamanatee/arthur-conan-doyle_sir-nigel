@@ -43,6 +43,9 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2007100246</meta>
 		<meta property="schema:genre">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Sir Nigel Loring</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta property="schema:abstract">A young English squire seeks honor by doing knightly deeds in the war with France.</meta>
 		<dc:description>
 			&lt;p&gt;Nigel Loring is a young man of a noble family. Living with his grandmother, they struggle to maintain their dwindling estate. Nigel dreams of becoming a knight and performing honorable deeds, but has no means to equip himself. However, events soon result in Nigel possessing a powerful warhorse and a suit of armor. He attaches himself as squire to an old family friend who is going to the wars in France. Wishing to marry, Nigel pledges to his love that he will not return until he has performed three great deeds.&lt;/p&gt;
